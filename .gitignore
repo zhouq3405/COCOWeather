@@ -1,0 +1,45 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# my add
+
+# Built application files
+*.apk
+*.ap_
+
+.idea/
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+
+
+# Generated files
+bin/
+gen/
+out/
+
+# Keystore files
+*.jks
+
+gradle.properties
+local.properties
